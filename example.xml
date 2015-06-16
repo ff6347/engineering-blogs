@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>RSS subscriptions for fabiantheblind@gmail.com</title>
+    <dateCreated>Tue, 06 Jan 2015 08:54:44 -0600</dateCreated>
+    <ownerEmail>fabiantheblind@gmail.com</ownerEmail>
+  </head>
+  <body>
+     <outline text="example" title="example">
+<outline text="Coding Horror" title="Coding Horror" type="rss" xmlUrl="http://feeds.feedburner.com/codinghorror/" htmlUrl="http://www.codinghorror.com/blog/"/>
+</outline>
+</body>
+</opml>
